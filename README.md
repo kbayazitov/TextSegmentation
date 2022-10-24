@@ -1,1 +1,1 @@
-# VK_nlp
+# VK Lab NLP 
